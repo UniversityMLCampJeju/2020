@@ -4,7 +4,7 @@
 
 
 
-![aaa](/images/Jeju-Island-South-Korea_png.png)
+![Jeju photo](/images/Jeju-Island-South-Korea_png.jpg)
 
 If you have interests in machine learning/deep learning and Blockchain, you should want to have a chance to implement non-trivial and decent applications for those deeply. Here is a good news. We invite you to join the 10-day long University Machine Learning & Blockchain Camp in Jeju 2020, where you can do that and have a fun and unforgettable memory with your friends from other universities. 
 For the period, we will design and train a deep learning model and Blockchain applications using TensorFlow, Pytorch and other frameworks from start-to-finish with your mentor. We might have access to some more mentors/experts to help you to implement your idea. We hope you get the benefit of this wonderful opportunity.
