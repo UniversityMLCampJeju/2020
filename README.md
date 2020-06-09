@@ -1,4 +1,4 @@
-# University MLB Camp Jeju 2020
+# University Machine Learning & Blockchain Camp Jeju 2020
 
 **August 19 ~ August 28, 2020**  
 
@@ -6,9 +6,9 @@
 
 ![Jeju photo](/images/Jeju-Island-South-Korea_png.jpg)
 
-If you have interests in machine learning/deep learning and Blockchain, you should want to have a chance to implement non-trivial and decent applications for those deeply. Here is a good news. We invite you to join the 10-day long University Machine Learning & Blockchain Camp in Jeju 2020, where you can do that and have a fun and unforgettable memory with your friends from other universities. 
-For the period, we will design and train a deep learning model and Blockchain applications using TensorFlow, Pytorch and other frameworks from start-to-finish with your mentor. We might have access to some more mentors/experts to help you to implement your idea. We hope you get the benefit of this wonderful opportunity.
-**All of you guys selected as attendees(mentors and mentees) will be provided with rooms and meals during the camp at Jeju National University in Jeju, South Korea. Round-trip airfare to Jeju Island will be covered fully for the attendees. In addition to these benefits, participants will get valuable and practical experiences in the field of machine learning/deep learning & Blockchain. We look forward to your application!**
+If you have interests in machine learning/deep learning and blockchain, you should want to have a chance to implement non-trivial and decent applications for those deeply. Here is a good news. We invite you to join the 10-day long University Machine Learning & Blockchain Camp in Jeju 2020, where you can do that and have a fun and unforgettable memory with your friends from other universities. 
+For the period, we will design and train a deep learning model and blockchain applications using TensorFlow, Pytorch and other frameworks from start-to-finish with your mentor. We might have access to some more mentors/experts to help you to implement your idea. We hope you get the benefit of this wonderful opportunity.
+**All of you guys selected as attendees(mentors and mentees) will be provided with rooms and meals during the camp at Jeju National University in Jeju, South Korea. Round-trip airfare to Jeju Island will be covered fully for the attendees. In addition to these benefits, participants will get valuable and practical experiences in the field of machine learning/deep learning & blockchain. We look forward to your application!**
 (Information regarding schedule, program, and benefits are subject to change)
 
 ### Camp Overview
@@ -26,7 +26,7 @@ For the period, we will design and train a deep learning model and Blockchain ap
 - Undergraduate and/or graduate students 
 - **Must stay in Jeju Island from August 19 to August 28 (10 days).** 
 - Weekday camp programs from 10 AM to 6 PM and free time during the weekend 
-- Understanding of machine learning frameworks or Blockchain, and the ability for implementation using programming languages
+- Understanding of machine learning frameworks or blockchain, and the ability for implementation using programming languages
 - Basic communication skills in English(preferred), Korean can also be accepted.
 - **Clear personal project description on what they want to develop in the camp**
 - Producing practical applications of machine learning and/or blockchain
