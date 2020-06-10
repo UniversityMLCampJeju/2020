@@ -26,7 +26,7 @@ For the period, we will design and train a deep learning model and blockchain ap
 - Undergraduate and/or graduate students 
 - **Must stay in Jeju Island from August 19 to August 28 (10 days).** 
 - Weekday camp programs from 10 AM to 6 PM and free time during the weekend 
-- Understanding of machine learning frameworks or blockchain, and the ability for implementation using programming languages
+- Understanding of machine learning frameworks and/or blockchain, and the ability for implementation using programming languages
 - Basic communication skills in English(preferred), Korean can also be accepted.
 - **Clear personal project description on what they want to develop in the camp**
 - Producing practical applications of machine learning and/or blockchain
@@ -35,7 +35,7 @@ For the period, we will design and train a deep learning model and blockchain ap
 
 ### Application 
 
-- Your proposal for Asin University Machine Learning Camp & Blockchain Jeju 2020 Project
+- Your proposal for University Machine Learning Camp & Blockchain Jeju 2020 Project
 - **Please use the application form for University MLB Camp and describe information as in detail as possible.**
 - CV that showcases your experience about deep learning and/or blockchain
 - Other supporting materials to show your expertise
