@@ -1,6 +1,6 @@
 # University Machine Learning & Blockchain Camp Jeju 2020
 
-**August 19 ~ August 28, 2020**  
+**August 17 ~ August 26, 2020**  
 
 
 
@@ -13,7 +13,7 @@ For the period, we will design and train a deep learning model and blockchain ap
 
 ### Camp Overview
 
-- Date: August 19 through August 28, 2020 (10 days, check-in date: August 18)
+- Date: August 17 through August 26, 2020 (10 days, check-in date: August 18)
 - Up to 15 mentees and some mentors will be invited.
 - Venue: Campus of Jeju National University, Jeju, South Korea 
 - Host: Jeju National Univ.
@@ -24,8 +24,8 @@ For the period, we will design and train a deep learning model and blockchain ap
 
 - No nationality, gender, and etc.
 - Undergraduate and/or graduate students 
-- **Must stay in Jeju Island from August 19 to August 28 (10 days).** 
-- Weekday camp programs from 10 AM to 6 PM and free time during the weekend 
+- **Must stay in Jeju Island from August 17 to August 26 (10 days).** 
+- Weekday camp programs from 9:30 AM to 6 PM and free time during the weekend 
 - Understanding of machine learning frameworks and/or blockchain, and the ability for implementation using programming languages
 - Basic communication skills in English(preferred), Korean can also be accepted.
 - **Clear personal project description on what they want to develop in the camp**
@@ -72,20 +72,21 @@ Located just off the coast of the Korean peninsula, Jeju Island is the largest v
 - **July 12: Evaluation of the proposals by mentors (checking the quality of project and possibility of implementation)**   
 - July 15: Announcement of final attendees by committee 
 - July 18: Mentee-mentor meeting(online/offline) for 1 month before joining
-- **August 18, 19: Check-in**
-- August 19: Camp starts with the intensive implementation 
-- August 24: Interim presentation 
-- August 28: Final presentation
-- August 29: Check-out
+- **August 16: Check-in**
+- August 17: Camp starts with the intensive implementation 
+- August 18: Self-introduction and presentation of their projects
+- August 21: Interim presentation 
+- August 26: Final presentation
+- August 27: Check-out
 
 ### Camp Schedule
 
 | Sunday                                                       | Monday                                                       | Tuesday                                                      | Wednesday                                                    | Thursday                                                     | Friday                                                       | Saturday                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 8/16                                                         | 8/17                                                         | 8/18                                                         | 8/19                                                         | 8/20                                                         | 8/21                                                         | 8/22                                                         |
-|                                                              |                                                              | check-in   (dormitory)                                       | ***.9:30-11:00 Setting environment @ coworking place in dorm building #5***  .11:00-12pm, personal project   .12pm-1pm, lunch .1pm-4pm,  project activity ***.4pm-5pm. Opening and orientation @TBA)*** .    .5pm-6pm, project activity .6pm-7pm dinner .7pm-8pm, mentoring | .9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   ***<u>.10:00-12pm, 5 min speech, self/project introduction @coworking place</u>*** .12pm-1pm, lunch 1pm-6pm, project activity     .7pm-8pm, mentoring | .9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity .6pm-7pm, dinner    .7pm-8pm, mentoring | .9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch . ***<u>1pm ~ Free time</u>*** |
+| check-in   (dormitory)                                       | ***.9:30-11:00 Setting environment @ coworking place in dorm building #5***  .11:00-12pm, personal project   .12pm-1pm, lunch .1pm-4pm,  project activity ***.4pm-5pm. Opening and orientation @TBA)*** .    .5pm-6pm, project activity .6pm-7pm dinner .7pm-8pm, mentoring | .9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   ***<u>.10:00-12pm, 5 min speech, self/project introduction @coworking place</u>*** .12pm-1pm, lunch 1pm-6pm, project activity     .7pm-8pm, mentoring | .9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity .6pm-7pm, dinner    .7pm-8pm, mentoring | .9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch . ***<u>1pm ~ Free time</u>*** | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch ***<u>.14:00-17pm, Interim presentation    .17pm-19pm,   Pizza time and let’s share our feelings!</u>*** | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project. Excursion! |
 | 8/23                                                         | 8/24                                                         | 8/25                                                         | 8/26                                                         | 8/27                                                         | 8/28                                                         | 8/29                                                         |
-| ***<u>Excursion/party and getting   together(Seong-san-il-chul-bong, Wudo Island, Man-jang-gul Cave)</u>*** | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch ***<u>.14:00-17pm, Interim presentation    .17pm-19pm,   Pizza time and let’s share our feelings!</u>*** | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner    .7pm-8pm, mentoring | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner    .7pm-8pm, mentoring | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner    .7pm-8pm, mentoring | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   ***<u>.14:00-17pm, Final presentation    .17pm-20pm,   Hangout in downtown!</u>*** | .check-out                                                   |
+| ***<u>Excursion/party and getting   together(Seong-san-il-chul-bong, Wudo Island, Man-jang-gul Cave)</u>*** | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner    .7pm-8pm, mentoring | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner    .7pm-8pm, mentoring | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   ***<u>.14:00-17pm, Final presentation    .17pm-20pm,   Hangout in downtown!</u>*** | .check-out                                                   |                                                              |                                                              |
 |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
 
