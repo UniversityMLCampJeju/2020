@@ -51,9 +51,8 @@ If you’re an expert in the field and interested in sharing your experiences an
 ### Hosted by
 
 - Jeju National University
-- Jeju Development Center (JDC) 
+- Jeju Free International City Development Center (JDC) 
 - Institute of Information Science & Technology
-- Research Institute of Advanced Technology
 
 ### Camp Teams
 
