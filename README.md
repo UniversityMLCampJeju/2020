@@ -1,4 +1,5 @@
 # University Machine Learning & Blockchain Camp Jeju 2020
+## with Jeju Free International City Development Center
 
 **August 17 ~ August 26, 2020**  
 
