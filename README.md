@@ -15,10 +15,10 @@ For the period, we will design and train a deep learning model and blockchain ap
 ### Camp Overview
 
 - Date: August 17 through August 26, 2020 (10 days, check-in date: August 18)
-- Up to 15 mentees and some mentors will be invited.
-- Venue: Campus of Jeju National University, Jeju, South Korea 
+- Up to 20 mentees and some mentors will be invited.
+- Venue: Campus of Jeju National University, Jeju Free International City Development Center(JDC)
 - Host: Jeju National Univ.
-- Supporter: Jeju Development Center, IIST
+- Supporter: JDC, IIST
 - Contacts: universitymlcampjeju@gmail.com, ycb@jejunu.ac.kr
 
 ### Qualification
@@ -52,13 +52,13 @@ If you’re an expert in the field and interested in sharing your experiences an
 ### Hosted by
 
 - Jeju National University
-- Jeju Free International City Development Center (JDC) 
+- JDC
 - Institute of Information Science & Technology
 
 ### Camp Teams
 
 - 5-10 local & remote mentors: daily on/off-line meetings
-- 15 attendees
+- 20 attendees
 - A few number of speakers  (subject to change) 
 
 ### Venue (Jeju Island, Korea)
@@ -67,11 +67,11 @@ Located just off the coast of the Korean peninsula, Jeju Island is the largest v
 
 ### Timeline
 
-- ~ May 31: budget planning and reservations
-- July 16: attendee’s application due 
-- **July 17: Evaluation of the proposals by mentors (checking the quality of project and possibility of implementation)**   
-- July 18: Announcement of final attendees by committee 
-- July 18: Mentee-mentor meeting(online/offline) for 1 month before joining
+- ~ July 15: budget planning and reservations
+- July 25: attendee’s application due 
+- **July 25: Evaluation of the proposals by mentors (checking the quality of project and possibility of implementation)**   
+- July 30: Announcement of final attendees by committee 
+- Augest 1: Mentee-mentor meeting(online/offline) for a half month before joining
 - **August 16: Check-in**
 - August 17: Camp starts with the intensive implementation 
 - August 18: Self-introduction and presentation of their projects
