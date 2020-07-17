@@ -112,7 +112,7 @@ Located just off the coast of the Korean peninsula, Jeju Island is the largest v
 - Visiting JDC
 - Other IT-related companies 
 
-### Application Form 2
+### Application Form
 
-Please click on <u>**<a href="https://www.dropbox.com/s/w27yr9em96aogz4/Application_Form_new.docx?dl=0">here</a>**</u>  to download the application form and submit to universitymlcampjeju@gmail.com by July 10.
+Please click on <u>**<a href="https://www.dropbox.com/s/w27yr9em96aogz4/Application_Form_new.docx?dl=0">here</a>**</u>  to download the application form and submit to universitymlcampjeju@gmail.com by July 20.
 
